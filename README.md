@@ -14,7 +14,7 @@ API REST desenvolvida como atividade acadêmica da disciplina de Desenvolvimento
 
 **Objetivo:** Desenvolver uma API REST para gerenciar o agendamento de espaços escolares destinados à realização de eventos. O sistema permite que professores solicitem reservas e que coordenadores analisem essas solicitações, podendo aprová-las ou rejeitá-las.
 
-**Estudante responsável:** Leila De Paula
+**Estudante Responsável:**LEILA DE PAULA 
 
 ---
 
