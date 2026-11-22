@@ -9,7 +9,8 @@ API REST desenvolvida como atividade acadêmica da disciplina de Desenvolvimento
 
 ## 1. Sobre o projeto
 
-**Nome:** Agendamento de Eventos Escolares
+
+**Projeto:** Oxeduc - Agendamento de Eventos Escolares
 
 **Objetivo:** Desenvolver uma API REST para gerenciar o agendamento de espaços escolares destinados à realização de eventos. O sistema permite que professores solicitem reservas e que coordenadores analisem essas solicitações, podendo aprová-las ou rejeitá-las.
 
