@@ -1,4 +1,4 @@
-# Documentacao-tecnica-oxeduc
+# Documentacao-tecnica-Oxeduc-Agendamento de Eventos Escolares
 Documentação técnica do projeto Agendamento de Eventos Escolares, contendo informações sobre sua estrutura, tecnologias utilizadas, configuração do banco de dados, entidades, regras de negócio, endpoints, autenticação JWT e limitações conhecidas da aplicação.
 
 # Agendamento de Eventos Escolares
